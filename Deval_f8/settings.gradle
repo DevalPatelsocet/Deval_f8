@@ -1,0 +1,2 @@
+rootProject.name = "Deval_f8"
+include ':app'
